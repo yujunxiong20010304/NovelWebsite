@@ -20,3 +20,5 @@
   #### 适用环境
   * 前端：Vue 2.0
   * 后端：flask
+# 部署阿里云服务器
+  ![部署](https://s3.bmp.ovh/imgs/2022/02/91b199305298dbaa.png "nginx配置")
