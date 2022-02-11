@@ -1,4 +1,4 @@
-# <p align="center">简单的小说网站示例<p>
+# <p align="center">使用vue+flask开发小说网站并部署阿里云服务器<p>
   
 # 环境
   * python
