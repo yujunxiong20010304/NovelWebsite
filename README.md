@@ -1,4 +1,4 @@
-# <p align="center">使用vue+flask开发小说网站并部署阿里云服务器<p>
+# <p align="center">使用vue+flask开发小说网站并部署在阿里云服务器<p>
   
 # 环境
   * python
